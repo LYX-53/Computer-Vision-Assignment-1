@@ -1,0 +1,17 @@
+train: D:/House_recognition/codeseg20241025/code/datasets/data/train
+val: D:/House_recognition/codeseg20241025/code/datasets/data/val
+test: D:/House_recognition/codeseg20241025/code/datasets/data/test
+nc: 12
+names:
+- Balcony-Sitout
+- Bedroom
+- Bedroom with Toilet
+- Dining
+- Dress
+- Enterance-Foyer
+- Kitchen
+- Living
+- Pooja
+- Toilet
+- Utility
+- object
